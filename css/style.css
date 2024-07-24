@@ -1,0 +1,27 @@
+@font-face {
+  font-family: Lexend;
+  src: url(../assets/fonts/Lexend-Regular.ttf);
+}
+
+body {
+  font-family: Lexend;
+  background-color: #363636;
+  color: aliceblue;
+}
+
+.comentario {
+  color: darkgrey;
+}
+
+table{
+  background-color: #424242;
+  display: inline-block;
+  border-style: solid;
+  border-width: 3px;
+  padding: 6px;
+  margin: 5px;
+}
+div{
+  display: flex;
+  align-items: center;
+}
